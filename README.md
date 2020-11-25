@@ -45,4 +45,7 @@
 ### VUE
  - [ ]  VUE3.0
 
-### 优质文章
+### 文章博客推荐
+ - [三元博客](https://blog-9g8lgnuke4603ff9-1257988864.tcloudbaseapp.com/)
+ - [前端进阶之道](https://yuchengkai.cn/docs/frontend/)
+ - [现代JavaScript](https://zh.javascript.info/)
