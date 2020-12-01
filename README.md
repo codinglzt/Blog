@@ -46,6 +46,7 @@
  - [ ]  VUE3.0
 
 ### 文章博客推荐
+ - [一名【合格】前端工程师的自检清单](https://juejin.cn/post/6844903830887366670#heading-17)
  - [三元博客](https://blog-9g8lgnuke4603ff9-1257988864.tcloudbaseapp.com/)
  - [前端进阶之道](https://yuchengkai.cn/docs/frontend/)
  - [现代JavaScript](https://zh.javascript.info/)
